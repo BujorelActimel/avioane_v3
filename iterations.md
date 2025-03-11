@@ -6,8 +6,6 @@ The development of the Aircraft Battle Game will be conducted across three itera
 
 ## Iteration 1: Core Connection and Game Setup
 
-**Duration:** 2 weeks
-
 **Focus:** Establish the foundation for the game by implementing the basic client-server architecture, room creation/joining, and the UI framework.
 
 **Use Cases to Implement:**
@@ -32,8 +30,6 @@ The development of the Aircraft Battle Game will be conducted across three itera
 
 ## Iteration 2: Game Preparation Phase
 
-**Duration:** 2 weeks
-
 **Focus:** Implement plane placement mechanics and the ready system to prepare for gameplay.
 
 **Use Cases to Implement:**
@@ -55,8 +51,6 @@ The development of the Aircraft Battle Game will be conducted across three itera
 **Deliverable:** A game where players can create/join rooms, place planes on their grids with visual feedback, and indicate readiness to start the battle.
 
 ## Iteration 3: Battle Phase and Game Completion
-
-**Duration:** 3 weeks
 
 **Focus:** Implement the core gameplay mechanics, scoring, and game resolution.
 
